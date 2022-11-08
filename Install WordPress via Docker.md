@@ -19,3 +19,5 @@ The commands traight from class document:
 # Create a new project directory for WordPress application with the following command:
 - mkdir wordpress
 
+# Navigate to the new directory:
+- cd wordpress
