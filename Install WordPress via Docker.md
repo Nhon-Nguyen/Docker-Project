@@ -9,5 +9,6 @@ The commands traight from class document:
 - sudo apt update
 - sudo apt install docker-ce docker-ce-cli containerd.io
 - sudo usermod -aG docker sysadmin
+- sudo docker run hello-world
 
 <img width="497" alt="test docker" src="https://user-images.githubusercontent.com/114501322/200607319-9318bfd7-e132-4744-ba23-ea23320d63e7.png">
