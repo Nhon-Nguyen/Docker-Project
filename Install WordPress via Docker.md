@@ -23,4 +23,5 @@ The commands traight from class document:
 - cd wordpress
 
 # Using Preferred Text Editor, Create a New docker-compose.yml File, and Paste the Contents Below:
+- For more information please visit: https://www.hostinger.com/tutorials/run-docker-wordpress
 <img width="960" alt="create new file" src="https://user-images.githubusercontent.com/114501322/200646954-f7a1f5a6-1219-454e-9881-66a6fdd39c5f.png">
