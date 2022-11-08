@@ -25,3 +25,7 @@ The commands traight from class document:
 # Using Preferred Text Editor, Create a New docker-compose.yml File, and Paste the Contents Below:
 - For more information please visit: https://www.hostinger.com/tutorials/run-docker-wordpress
 <img width="960" alt="create new file" src="https://user-images.githubusercontent.com/114501322/200646954-f7a1f5a6-1219-454e-9881-66a6fdd39c5f.png">
+
+# With the Docker Compose File Created, Run the Following Command in the Same wordpress Directory to Create and Start the Containers:
+<img width="675" alt="docker up" src="https://user-images.githubusercontent.com/114501322/200651515-31c4293d-81ba-4778-b2d2-8c07dae44e8e.png">
+
