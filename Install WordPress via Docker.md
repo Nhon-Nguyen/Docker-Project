@@ -17,5 +17,5 @@ The commands traight from class document:
 <img width="497" alt="check version" src="https://user-images.githubusercontent.com/114501322/200612855-eaa75616-85b7-467d-9ff3-9278b3613eb9.png">
 
 # Create a new project directory for WordPress application with the following command:
-mkdir wordpress
+- mkdir wordpress
 
