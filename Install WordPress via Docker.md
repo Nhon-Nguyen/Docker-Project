@@ -12,3 +12,7 @@ The commands traight from class document:
 - sudo docker run hello-world
 
 <img width="497" alt="test docker" src="https://user-images.githubusercontent.com/114501322/200607319-9318bfd7-e132-4744-ba23-ea23320d63e7.png">
+
+# Check Docker Compose Version
+<img width="497" alt="check version" src="https://user-images.githubusercontent.com/114501322/200612855-eaa75616-85b7-467d-9ff3-9278b3613eb9.png">
+
