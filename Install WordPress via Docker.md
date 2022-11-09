@@ -35,4 +35,8 @@ The commands traight from class document:
 # Fill in site name, username, password, and email.
 <img width="960" alt="open account" src="https://user-images.githubusercontent.com/114501322/200715416-04fe30ec-af7b-4284-95a0-82aa534c9ea4.png">
 
+# WordPress dashboard screen
+<img width="960" alt="inside wordpress" src="https://user-images.githubusercontent.com/114501322/200716516-716f9ea7-e285-4184-9560-efc7b71dbec9.png">
+
+
 
