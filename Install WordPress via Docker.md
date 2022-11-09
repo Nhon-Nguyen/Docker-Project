@@ -38,5 +38,9 @@ The commands traight from class document:
 # WordPress dashboard screen
 <img width="960" alt="inside wordpress" src="https://user-images.githubusercontent.com/114501322/200716516-716f9ea7-e285-4184-9560-efc7b71dbec9.png">
 
+# WordPress Admin interface with my username
+<img width="960" alt="admin" src="https://user-images.githubusercontent.com/114501322/200719931-1e2c4459-b35a-405f-bb16-ebcf6c79ed53.png">
+
+
 
 
