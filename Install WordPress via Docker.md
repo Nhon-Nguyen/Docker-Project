@@ -29,3 +29,7 @@ The commands traight from class document:
 # With the Docker Compose File Created, Run the Following Command in the Same wordpress Directory to Create and Start the Containers:
 <img width="675" alt="docker up" src="https://user-images.githubusercontent.com/114501322/200651515-31c4293d-81ba-4778-b2d2-8c07dae44e8e.png">
 
+# Open browser and enter http://localhost:8000/. WordPress setup screen will appear. Select the preferred language and continue.
+<img width="960" alt="wordpress" src="https://user-images.githubusercontent.com/114501322/200713749-c67b5abf-a5aa-4135-939d-32c86a40818c.png">
+
+
