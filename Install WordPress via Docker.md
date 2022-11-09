@@ -32,4 +32,7 @@ The commands traight from class document:
 # Open browser and enter http://localhost:8000/. WordPress setup screen will appear. Select the preferred language and continue.
 <img width="960" alt="wordpress" src="https://user-images.githubusercontent.com/114501322/200713749-c67b5abf-a5aa-4135-939d-32c86a40818c.png">
 
+# Fill in site name, username, password, and email.
+<img width="960" alt="open account" src="https://user-images.githubusercontent.com/114501322/200715416-04fe30ec-af7b-4284-95a0-82aa534c9ea4.png">
+
 
